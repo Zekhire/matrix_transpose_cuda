@@ -1,4 +1,4 @@
-# Matrix transpose cuda
+# Matrix transpose CUDA
 
 
 #### Technologies
